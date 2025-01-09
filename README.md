@@ -19,9 +19,10 @@ This project is an alert system that sends real-time NBA game day score notifica
 ## **Warning**
 
 You may recieve a "Lambda Timed Out" Error
-Reference: [Lambda Documentation](https://repost.aws/knowledge-center/lambda-troubleshoot-invocation-timeouts)
 
-Start by increasing the timeout as shown here [Lambda Time Out](https://www.loom.com/share/ef2a92a7a75d4f438d74d0b497768ae3)
+- Reference: [Lambda Documentation](https://repost.aws/knowledge-center/lambda-troubleshoot-invocation-timeouts)
+
+- Start by increasing the timeout as shown here [Lambda Time Out](https://www.loom.com/share/ef2a92a7a75d4f438d74d0b497768ae3)
 
 ---
 
